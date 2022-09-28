@@ -2,7 +2,7 @@
 
 This repo contains guidance on how to run AlphaFold on hpg. 
 
-Hpg has its own version of AF that you can use, but it takes much longer to run and the results are not significantly better than the results from the local installation. <br>
+Hpg has its own version of AF that you can use, but it takes much longer to run and the results are not significantly better than the results from the local installation.
 
 Note: you can install this on your own computer too, but it is better to have gpu , this is why if you have gpu allocation on hpg this will be useful. 
 ----------
@@ -20,6 +20,7 @@ colabfold_batch -- help
 ```bash
 #!/bin/bash
 ```
+
 and change what is necessary - your username , account etc 
 ---------------------------
 ## Changing the MSA used in the prediction. 
