@@ -9,7 +9,7 @@
 
 pwd; hostname; date
 
-./BatchAlphafold.sh
+./LoopSubmit_alphafold_job.sh
 
 # ./BatchAlphafold_nomsa.sh # change the path 
 
