@@ -22,5 +22,6 @@ colabfold_batch -- help
 ```
 
 and change what is necessary - your username , account etc 
+
 ---------------------------
 ## Changing the MSA used in the prediction. 
